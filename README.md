@@ -37,30 +37,26 @@ Welcome to my **Personal Portfolio**! This website serves as a showcase of my sk
 ## 📸 **Screenshots**
 
 ### **Home Page**  
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)  
+![Pragati App](https://drive.google.com/uc?export=view&id=1a8qUItim2yem26vWBcqJ6SM-4Jm5eB3B)
+ 
 The clean, professional home page with an introduction and a navigation bar.
 
 ### **Projects Section**  
-![Projects Section](https://via.placeholder.com/800x400.png?text=Projects+Section)  
+![Pragati App](https://drive.google.com/uc?export=view&id=1CeHccnfg3GtJ1QjAkHx8Hy7vAkvC7ObW)
+  
 The showcase of my work, featuring cards for each project with hover effects.
 
 ### **Skills Section**  
-![Skills Section](https://via.placeholder.com/800x400.png?text=Skills+Section)  
+![Pragati App](https://drive.google.com/uc?export=view&id=1obz5JYLkz9WaBAe_Q7ZGDjyrEBnYLlGF)
+ 
 A quick look at my technical skills displayed with icons and descriptions.
 
 ### **Contact Section**  
-![Contact Section](https://via.placeholder.com/800x400.png?text=Contact+Section)  
+![Pragati App](https://drive.google.com/uc?export=view&id=1OVwfPI3bTEJHTDSeIX20Dpf44qz1x8hb)
+
 A simple contact form for potential collaborations, along with social media links.
 
 ---
-
-## 🔧 **Technologies Used**
-- **HTML5** for structure and layout.
-- **CSS3** for styling, animations, and transitions.
-- **JavaScript** for interactivity and smooth page transitions.
-- **React** for building a dynamic, single-page app.
-- **Bootstrap** for responsive design.
-- **Font Awesome** for icons and easy access to social media.
 
 ---
 
@@ -72,7 +68,7 @@ This portfolio website is designed to highlight my **skills, projects, and achie
 ## 📢 **Get In Touch**
 Feel free to reach out if you’d like to discuss potential opportunities or just connect!
 
-👉 **[Visit My Portfolio Website](#)**
+👉 **[Visit My Portfolio Website](https://pratikpandey.framer.website/)**
 
 ---
 
